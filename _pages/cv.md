@@ -28,7 +28,7 @@ Work experience
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
 
-Work experience
+Involvement
 ======
 * Feb 2022 - May 2023 - now: Honor Student
   * Intelligence Community Members of Academic Excellence
