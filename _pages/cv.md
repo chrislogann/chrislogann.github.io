@@ -20,31 +20,47 @@ Work experience
 ======
 * Jun 2023 - Now: Database Analyst
   * Kansas Department of Health and Environment
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+  * Duties include:
+    * Creating C# file parsers for instruments
+    * Training new staff on data administration
+    * Developing PL/SQL scripts to transform data
+    * Designing reports using Telerik reporting software
+    * Setting up Tableau dashboards
 
 * Jan 2023 - May 2023: Tax Intern
   * University of Kansas
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+  * Duties included:
+    * Assisting students with yearly tax forms
+    * Guiding users through online tax programs
+    * Studying tax deductions
+
 
 Involvement
 ======
 * Feb 2022 - May 2023 - now: Honor Student
   * Intelligence Community Members of Academic Excellence
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+  * Duties included:
+    * Attending meetings about national security
+    * Joining ICCAE seminar
+    * Simulating intelligence cycle methods
+    * Drafting intelligence reports
     
  * Dec 2021 - Jun 2022: Director of Finance
-  * Director of Finance
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+  * Sigma Tau Gamma
+  * Duties included:
+    * Completing organizational tax forms
+    * Attending tax obligation seminars
+    * Establishing a yearly budget
+    * Approving financial transactions
+    * Collecting money from outstanding member accounts
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Microsoft Office
+* Programming languages
+  * C#
+  * Python
+  * Oracle SQL
+  * Microsoft Visual Studio
+* Client management
+* Project planning
