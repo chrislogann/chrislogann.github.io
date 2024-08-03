@@ -9,7 +9,6 @@ collection: portfolio
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Email Delivery Application</title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -17,11 +16,6 @@ collection: portfolio
             padding: 0;
             color: #333;
             text-align: center;
-        }
-        header {
-            background-color: #0366d6; /* GitHub’s color */
-            color: white;
-            padding: 20px;
         }
         main {
             padding: 20px;
@@ -37,15 +31,10 @@ collection: portfolio
     </style>
 </head>
 <body>
-    <header>
-        <h1>Email Delivery Application</h1>
-        <p>A C# delivery application that sends emails with multiple attachments</p>
-        <img src="/images/Email_Delivery.png" alt="Email Delivery Application" />
-    </header>
-
     <main>
         <!-- GitHub Repository Stats Card -->
         <section>
+            <h2>My GitHub Repository</h2>
             <a href="https://github.com/chrislogann/Email_Delivery" target="_blank">
                 <img src="https://github-readme-stats.vercel.app/api/pin/?username=chrislogann&repo=Email_Delivery" alt="GitHub Repo Stats" />
             </a>
@@ -53,6 +42,7 @@ collection: portfolio
     </main>
 </body>
 </html>
+
 
 
 
