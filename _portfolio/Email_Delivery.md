@@ -4,7 +4,6 @@ excerpt: "A C# delivery application that sends emails with multiple attachments<
 collection: portfolio
 ---
 
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
