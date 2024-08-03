@@ -4,4 +4,121 @@ excerpt: "Short description of portfolio item number 2 <br/><img src='/images/50
 collection: portfolio
 ---
 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Personal Website</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            color: #333;
+        }
+        header, footer {
+            background-color: #f4f4f4;
+            padding: 20px;
+            text-align: center;
+        }
+        main {
+            padding: 20px;
+        }
+        h2 {
+            color: #0366d6; /* GitHub’s color */
+        }
+        .github-link {
+            color: #0366d6;
+            text-decoration: none;
+            font-weight: bold;
+        }
+        .github-link:hover {
+            text-decoration: underline;
+        }
+        iframe {
+            border: none;
+            width: 100%;
+            max-width: 800px;
+            height: 500px;
+            margin: 20px 0;
+        }
+        .screenshot {
+            width: 100%;
+            max-width: 600px;
+            display: block;
+            margin: 10px 0;
+        }
+        .button {
+            display: inline-block;
+            padding: 10px 20px;
+            margin: 10px 0;
+            background-color: #0366d6;
+            color: white;
+            text-decoration: none;
+            border-radius: 5px;
+            font-weight: bold;
+        }
+        .button:hover {
+            background-color: #024d8c;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Welcome to My Personal Website</h1>
+    </header>
+    
+    <main>
+        <!-- GitHub Repository Stats Card -->
+        <section>
+            <h2>My GitHub Repository</h2>
+            <a href="https://github.com/yourusername/repositoryname" target="_blank">
+                <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=reponame" alt="GitHub Repo Stats" />
+            </a>
+        </section>
+
+        <!-- GitHub Repository README (optional) -->
+        <section>
+            <h2>Project Overview</h2>
+            <iframe src="https://raw.githubusercontent.com/yourusername/repositoryname/main/README.md"></iframe>
+        </section>
+
+        <!-- GitHub Embed Badge -->
+        <section>
+            <h2>Check Out My Project</h2>
+            <a href="https://github.com/yourusername/repositoryname" target="_blank">
+                <img src="https://img.shields.io/badge/GitHub-Repository-blue" alt="GitHub Repo" />
+            </a>
+        </section>
+
+        <!-- GitHub Project Showcase with Screenshots -->
+        <section>
+            <h2>Project Screenshots</h2>
+            <p>This project is designed to help with XYZ. Here are some key features:</p>
+            <ul>
+                <li>Feature 1</li>
+                <li>Feature 2</li>
+                <li>Feature 3</li>
+            </ul>
+            <a href="https://github.com/yourusername/repositoryname" target="_blank">
+                <img src="screenshot1.png" alt="Project Screenshot 1" class="screenshot" />
+                <img src="screenshot2.png" alt="Project Screenshot 2" class="screenshot" />
+            </a>
+        </section>
+
+        <!-- GitHub Pages Link -->
+        <section>
+            <h2>Visit My Project Page</h2>
+            <a href="https://yourusername.github.io/repositoryname" target="_blank" class="button">View Project</a>
+        </section>
+    </main>
+    
+    <footer>
+        <p>&copy; 2024 My Name. All rights reserved.</p>
+    </footer>
+</body>
+</html>
+
+
 This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
