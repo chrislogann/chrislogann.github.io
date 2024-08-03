@@ -9,6 +9,7 @@ collection: portfolio
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Email Delivery Application</title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -16,6 +17,11 @@ collection: portfolio
             padding: 0;
             color: #333;
             text-align: center;
+        }
+        header {
+            background-color: #0366d6; /* GitHub’s color */
+            color: white;
+            padding: 20px;
         }
         main {
             padding: 20px;
@@ -31,6 +37,12 @@ collection: portfolio
     </style>
 </head>
 <body>
+    <header>
+        <h1>Email Delivery Application</h1>
+        <p>A C# delivery application that sends emails with multiple attachments</p>
+        <img src="/images/Email_Delivery.png" alt="Email Delivery Application" />
+    </header>
+
     <main>
         <!-- GitHub Repository Stats Card -->
         <section>
@@ -41,6 +53,7 @@ collection: portfolio
     </main>
 </body>
 </html>
+
 
 
 This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
