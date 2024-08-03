@@ -1,6 +1,6 @@
 ---
 title: "Email Delivery Application"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/Email_Delivery.png'>"
+excerpt: "A C# delivery application that sends emails with multiple attachments<br/><img src='/images/Email_Delivery.png'>"
 collection: portfolio
 ---
 
