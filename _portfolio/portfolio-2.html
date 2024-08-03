@@ -16,28 +16,13 @@ collection: portfolio
             margin: 0;
             padding: 0;
             color: #333;
+            text-align: center;
         }
         main {
             padding: 20px;
-            text-align: center;
         }
         h2 {
             color: #0366d6; /* GitHub’s color */
-        }
-        .github-link {
-            color: #0366d6;
-            text-decoration: none;
-            font-weight: bold;
-        }
-        .github-link:hover {
-            text-decoration: underline;
-        }
-        iframe {
-            border: none;
-            width: 100%;
-            max-width: 800px;
-            height: 500px;
-            margin: 20px 0;
         }
         .button {
             display: inline-block;
@@ -52,6 +37,11 @@ collection: portfolio
         .button:hover {
             background-color: #024d8c;
         }
+        img {
+            max-width: 100%;
+            height: auto;
+            margin: 20px 0;
+        }
     </style>
 </head>
 <body>
@@ -64,9 +54,10 @@ collection: portfolio
             </a>
         </section>
 
-        <!-- GitHub Repository README (optional) -->
+        <!-- Link to GitHub Repository README -->
         <section>
-            <iframe src="https://raw.githubusercontent.com/chrislogann/Email_Delivery/main/README.md"></iframe>
+            <h2>Project Overview</h2>
+            <p>View the project's README file on GitHub: <a href="https://github.com/chrislogann/Email_Delivery/blob/main/README.md" target="_blank">README.md</a></p>
         </section>
 
         <!-- GitHub Embed Badge -->
@@ -83,6 +74,7 @@ collection: portfolio
     </main>
 </body>
 </html>
+
 
 
 
